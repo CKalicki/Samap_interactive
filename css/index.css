@@ -199,6 +199,7 @@ ul.primary li:hover > a{
 
 .flex-container{
 	width: 80%;
+  padding: 20px;
 	min-height: 300px;
 	margin: 0 auto;
 	display: -webkit-flex; /* Safari */
